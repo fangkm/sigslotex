@@ -24,13 +24,13 @@
 #define _SIGSLOT_BIND_C3C0E9E5_17E9_4B46_B7FC_D41509ACD812_
 
 #include "base/sigslot.h"
-#include <boost/mpl/at.hpp>
-#include <boost/mpl/vector.hpp>
-#include <boost/tuple/tuple.hpp>
-#include <boost/preprocessor/repetition/enum.hpp>
-#include <boost/preprocessor/repetition/enum_params.hpp>
-#include <boost/preprocessor/repetition/repeat_from_to.hpp>
-#include <boost/preprocessor/repetition/repeat_from_to.hpp>
+#include "boost/mpl/at.hpp"
+#include "boost/mpl/vector.hpp"
+#include "boost/tuple/tuple.hpp"
+#include "boost/preprocessor/repetition/enum.hpp"
+#include "boost/preprocessor/repetition/enum_params.hpp"
+#include "boost/preprocessor/repetition/repeat_from_to.hpp"
+#include "boost/preprocessor/repetition/repeat_from_to.hpp"
 
 namespace sigslot {
 
